@@ -1,0 +1,14 @@
+31.18
+
+Python:
+Success: 311717 Failure: 688283
+Success: 310670 Failure: 689330
+Success: 311873 Failure: 688127
+
+Java:
+Success: 3116003 Failure: 6883997
+Success: 31174870 Failure: 68825130
+Success: 312292 Failure: 687708
+Success: 3119637 Failure: 6880363
+Success: 3117693 Failure: 6882307
+Success: 31190529 Failure: 68809471
